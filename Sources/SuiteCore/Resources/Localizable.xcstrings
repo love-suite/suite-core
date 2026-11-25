@@ -1,0 +1,166 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%1$@ %2$@ is available": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@ est disponible"
+          }
+        }
+      }
+    },
+    "%@ is up to date": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ est à jour"
+          }
+        }
+      }
+    },
+    "Checking": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vérification en cours"
+          }
+        }
+      }
+    },
+    "Couldn't check for updates": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de vérifier les mises à jour"
+          }
+        }
+      }
+    },
+    "Couldn't read the latest release: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de lire la dernière version : %@"
+          }
+        }
+      }
+    },
+    "Install and Relaunch": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Installer et relancer"
+          }
+        }
+      }
+    },
+    "Installing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Installation en cours"
+          }
+        }
+      }
+    },
+    "Later": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus tard"
+          }
+        }
+      }
+    },
+    "No release at %@.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune version à %@."
+          }
+        }
+      }
+    },
+    "No release published yet.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune version publiée pour l'instant."
+          }
+        }
+      }
+    },
+    "The update couldn't be installed: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La mise à jour n'a pas pu être installée : %@"
+          }
+        }
+      }
+    },
+    "This build has no update key, so it can't check releases.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette version n'a pas de clé de mise à jour et ne peut pas vérifier les versions."
+          }
+        }
+      }
+    },
+    "Up to date (checked at %@).": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À jour (vérifié à %@)."
+          }
+        }
+      }
+    },
+    "Version %@ (%d).": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version %@ (%d)."
+          }
+        }
+      }
+    },
+    "Version %@ is available.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La version %@ est disponible."
+          }
+        }
+      }
+    },
+    "You have %1$@ (%2$d). %3$@ reopens after the update.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vous avez %1$@ (%2$d). %3$@ rouvre après la mise à jour."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
